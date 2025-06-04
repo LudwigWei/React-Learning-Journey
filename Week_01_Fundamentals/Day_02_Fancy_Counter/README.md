@@ -1,5 +1,5 @@
 # Fancy Counter
-
+![image alt](https://github.com/LudwigWei/React-Learning-Journey/blob/cc3215c932786c4f9d00567ec25d369947f0336d/Week_01_Fundamentals/Day_02_Fancy_Counter/Fancy_Counter.png)
 ## React Learning Journey - Day 2
 
 Welcome to my React project! This is my second day learning React, and I'm documenting my progress here.
