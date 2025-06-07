@@ -1,3 +1,5 @@
+https://github.com/LudwigWei/React-Learning-Journey/blob/main/Week_01_Fundamentals/Day_03_&_04_Word_Analytics/Word%20Analytics.png?raw=true
+
 # React Learning Journey - Day 03 & 04 - Word Analytics Project
 
 ## What I Did
