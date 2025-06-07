@@ -1,4 +1,4 @@
-# Day 1: React Setup & JSX Fundamentals
+# React Learning Journey - Day 2
 
 This folder encapsulates the initial steps of my React learning journey. On Day 1, the primary focus was on getting the development environment ready and understanding the absolute core building blocks of a React application.
 
