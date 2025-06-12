@@ -32,6 +32,6 @@ export default function ButtonGroup({
           {text}
         </Button>
       ))}
-    </section> 
-  );  
+    </section>
+  );
 }
