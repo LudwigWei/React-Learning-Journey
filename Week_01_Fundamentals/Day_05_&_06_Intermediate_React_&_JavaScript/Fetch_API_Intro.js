@@ -13,7 +13,7 @@ const clickHandler = async () => {
     if (!res.ok) {
       console.log(data.description);
       return;
-    }  
+    }
 
     console.log(data);
   } catch (error) {
